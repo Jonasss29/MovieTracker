@@ -1,0 +1,10 @@
+# LF everywhere (scripts run in WSL and CI); Windows batch files need CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.png binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.db binary

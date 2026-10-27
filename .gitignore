@@ -1,0 +1,40 @@
+# Personal, never commit
+PROJECT_BRIEF.md
+CLAUDE.local.md
+.claude/settings.local.json
+
+# User data
+/data/
+
+# Local-only material (legacy data migration, personal notes)
+/local/
+
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+coverage/
+
+# Packaging output
+/dist/
+
+# Test artifacts (portability tests, self-test data dirs, Process Monitor logs)
+/.test-artifacts/
+*.pml
+*.PML
+
+# IDE (may contain absolute local paths)
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log

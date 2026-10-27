@@ -1,6 +1,6 @@
 # MovieTracker – Umsetzungsplan
 
-> Stand: 2026-10-27 · Status: **Phase 0** (Umgebung)
+> Stand: 2026-10-27 · Status: **Phase 0 abgeschlossen**, nächste: Phase 1 (Spike)
 > Grundlage: das ursprüngliche Projekt-Briefing (nur lokal, nicht Teil des Repos; Verweise wie „Briefing §6“ beziehen sich darauf). Dieser Plan hält fest, was in der Planungsphase zusätzlich entschieden wurde und in welcher Reihenfolge gebaut wird. Wo er vom Briefing abweicht, steht die Begründung dabei.
 > Sprache der Projektdokumente: Deutsch, Bezeichner englisch im Code-Format. Code, Kommentare, Commits: Englisch.
 
